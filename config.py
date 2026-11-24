@@ -96,7 +96,7 @@ API_URLS = {
 AI_CHAT_URL = "https://++++++++++++++"
 
 # API قیمت طلا و نقره.
-GOLD_API = "https://rubigram.ir/api/gold.php"
+GOLD_API = "https:++++++++++old.php"
 
 # API قیمت سکه.
 COIN_API = "https://ru++++++++++hp"
